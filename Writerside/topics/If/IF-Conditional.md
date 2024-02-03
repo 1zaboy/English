@@ -1,6 +1,6 @@
 # IF Conditionals
 
-В некоторых ситуациях правила допускают использование как First, так и Second Conditional.
+В некоторых ситуациях правила допускают использование как First, так и Second Conditional. \
 If и Will в одной части не ставятся.
 
 <procedure title="First Conditional" id="procedure-id">
